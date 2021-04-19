@@ -17,6 +17,16 @@ public class DEMO6
 		
 	}
 	
+	public void m120()
+	{
+		System.out.println(" M 20 ");
+	}
+	public void sub()
+	{
+		System.out.println(" Hello Sub");
+		
+	}
+	
 	
 
 }
